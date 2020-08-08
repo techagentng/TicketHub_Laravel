@@ -83,7 +83,7 @@
         "pdfmake": "^0.1.60",
         "perfect-scrollbar": "^1.4.0",
         "popper.js": "^1.14.7",
-        "prismjs": "^1.8.4",
+        "prismjs": "^1.21.0",
         "quill": "^1.3.6",
         "raphael": "^2.2.7",
         "select2": "^4.0.8",
