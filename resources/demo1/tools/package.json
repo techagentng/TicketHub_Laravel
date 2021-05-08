@@ -60,7 +60,7 @@
         "es6-promise-polyfill": "^1.2.0",
         "flot": "^3.2.2",
         "gmaps": "^0.4.24",
-        "handlebars": "4.1.0",
+        "handlebars": "4.7.7",
         "inputmask": "^4.0.6",
         "ion-rangeslider": "^2.2.0",
         "jkanban": "^1.0.1",
