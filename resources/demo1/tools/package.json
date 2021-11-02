@@ -94,7 +94,7 @@
         "sweetalert2": "^8.0.6",
         "tagify": "^0.1.1",
         "tether": "^1.4.3",
-        "tinymce": "^5.0.16",
+        "tinymce": "^5.10.0",
         "toastr": "^2.1.4",
         "tooltip.js": "^1.2.0",
         "underscore": "^1.8.3",
